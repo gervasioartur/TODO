@@ -1,7 +1,11 @@
 # TODO
-# TODO
 
 
-# Criar banco de dados com nome nodesmvc
-#rodar no terminal npm i
-#rodar no terminal nmp start
+1- Criar banco de dados com nome nodesmvc
+
+
+2- rodar no terminal npm i
+
+
+3-rodar no terminal nmp start
+
