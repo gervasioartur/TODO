@@ -11,7 +11,6 @@ app.set('views', path.join(__dirname, 'app/views'));
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
-console.log(path.join(__dirname,'/public/'))
 //routes
 const TaskRoutes = require('./routes/tasksRoutes')
 
