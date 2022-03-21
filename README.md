@@ -22,7 +22,7 @@
 <ol>
   <li>npm install or yarn install.</li>
    <li>npm start or yarn start.</li>
-  <li>go to your favorite browser and paste the link <a href='http://localhost:3000'>http://localhost:3000</a>. By default the application will run on port 3000 but you can change this by editing the .env file in the project root.</li>
+  <li>go to your favorite browser and paste the link <a href='http://localhost:3000' target="_blank">http://localhost:3000</a>. By default the application will run on port 3000 but you can change this by editing the .env file in the project root.</li>
 </ol>
 
 <p>
