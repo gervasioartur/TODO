@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const TaskContreoller = require('../controllers/TastController')
+const TaskContreoller = require('../app/controllers/TastController')
 
 router.get('/', TaskContreoller.showTasks)
 router.post('/add', TaskContreoller.createTaskSave)
