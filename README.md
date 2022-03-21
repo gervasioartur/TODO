@@ -29,8 +29,8 @@
   So thats it, i'm glad that you've had time to see my github page, make sure you come back to see more.
 
   If you feel free here my linkedin page see you all there.
-
-  linkedin: https://www.linkedin.com/in/gervasio-artur-dombo
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/gervasio-artur-dombo/)](https://www.linkedin.com/in/gervasio-artur-dombo/)
 </p>
 <h2>Some images running the projet</h2>
  
