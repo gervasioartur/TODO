@@ -1,8 +1,8 @@
 require('dotenv/config')
-const host = process.env.host
-const database = process.env.database
-const user = process.env.db_user
-const password = process.env.db_password
+const host = process.env.HOST
+const database = process.env.DATABASE
+const user = process.env.DB_USER
+const password = process.env.DB_PASSWORD
 
 module.exports = {
     host: host,
